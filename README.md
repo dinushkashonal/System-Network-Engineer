@@ -9,6 +9,8 @@ Diploma in Software Engineering
 
 #### Work Experience
 Information Technnology Manager @ Araliya Green City
+IT Exeutive
 
 #### Projects
 Workoder Management System Cloud Backup Server System
+Cloud Backup System
