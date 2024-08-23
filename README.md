@@ -13,10 +13,15 @@ operational relationships between departments
 #### Bachalors in Network & Cybersecurity
 - Lincoln University of Sri Lanka
 #### Diploma in Software Engineering
+- Esoft Metro Campus
+#### Cisco Certified Network Associate
+- Winsys Network Acadamy
 
 #### Work Experience
-Information Technnology Manager @ Araliya Green City
-IT Exeutive
+Information Technnology Manager @ Araliya Green City, Sri Lanka
+IT Exeutive @ Araliya Green City Nuwaraeliya, Sri Lanka
+IT Supervisor @ Araliya Green Hills 
+
 
 #### Projects
 Workoder Management System Cloud Backup Server System
