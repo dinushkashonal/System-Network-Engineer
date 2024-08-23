@@ -10,11 +10,11 @@ planning. I excel in successful team building and creating high-impact
 operational relationships between departments
 
 ### Education
-#### Bachalors in Network & Cybersecurity
+Bachalors in Network & Cybersecurity
 - Lincoln University of Sri Lanka
-#### Diploma in Software Engineering
+Diploma in Software Engineering
 - Esoft Metro Campus
-#### Cisco Certified Network Associate
+ Cisco Certified Network Associate
 - Winsys Network Acadamy
 
 #### Work Experience
