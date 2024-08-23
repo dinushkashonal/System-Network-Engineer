@@ -12,6 +12,7 @@ operational relationships between departments
 ### Education
 Bachalors in Network & Cybersecurity
 - Lincoln University of Sri Lanka
+Diploma in Software Engineering
 
 #### Work Experience
 Information Technnology Manager @ Araliya Green City, Sri Lanka
