@@ -10,9 +10,8 @@ planning. I excel in successful team building and creating high-impact
 operational relationships between departments
 
 ### Education
-Bachalors in Network & Cybersecurity
-- Lincoln University of Sri Lanka
-Diploma in Software Engineering
+Bachalors in Network & Cybersecurity | Lincoln University of Sri Lanka
+Diploma in Software Engineering | Esoft Metro Campus
 
 #### Work Experience
 Information Technnology Manager @ Araliya Green City, Sri Lanka
