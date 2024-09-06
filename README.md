@@ -15,15 +15,15 @@ operational relationships between departments
 -Cisco Certified Network Associate | Winsys Network Acadamy
 
 #### Work Experience
-##### *Senior Information Technnology Manager
+##### Senior Information Technnology Manager
 -Araliya Hotels Nuwaraeliya - Present
-##### *Information Technology Executive
+##### Information Technology Executive
 -Araliya Green City Hotel - November 2022 To November 2023
-##### *IT Administrator
+##### IT Administrator
 -Araliya Green Hills Hotel April 2022 To November 2022
-##### *System Administrator
+##### System Administrator
 -D-Tech Computers Bibile
-##### *Netwokr Administrator
+##### Netwokr Administrator
 -BDC Bank Bibile
 
 
@@ -33,17 +33,29 @@ operational relationships between departments
 
 #### Key Skills
 
-##### Hospitality IT Management
+##### Hospitality IT Management:
 -Specialize in implementing and managing technology solutions tailored to the hospitality industry, including property management systems (PMS), point-of-sale (POS) systems, and guest experience platforms.
-##### System Administration
+##### System Administration:
 -Extensive experience in managing server environments, network infrastructure, and security protocols. Proficient in troubleshooting and maintaining Windows, Linux, and cloud-based systems.
-##### Project Management
+##### Project Management:
 -Skilled in leading IT projects from inception to completion, including system upgrades, integrations, and migrations. Proven ability to manage budgets, timelines, and stakeholder expectations.
-##### Technical Support
+##### Technical Support:
 -Strong track record of delivering high-quality technical support and training to staff, ensuring seamless day-to-day operations and minimizing downtime.
-##### Cybersecurity
+##### Cybersecurity:
 -Expertise in implementing and maintaining security measures to protect sensitive data and ensure compliance with industry standards and regulations.
-##### Vendor Management
+##### Vendor Management:
 -Experience in negotiating with and managing relationships with technology vendors and service providers to optimize product performance and cost-efficiency.
-##### Innovation
+##### Innovation:
 -Focused on leveraging emerging technologies to enhance guest experiences and operational efficiency, including smart room technology and data analytics.
+
+#### Hard Skills
+•	Network Virtualization
+•	Subnetting
+•	Network Protocols
+•	Troubleshooting
+•	Load Balancing
+•	VLAN Configuration
+•	LVM Configuration – Nextcloud
+•	DHCP Pool Configuring
+•	Firewall Configuration and Optimization
+
