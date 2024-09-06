@@ -15,11 +15,16 @@ operational relationships between departments
 -Cisco Certified Network Associate | Winsys Network Acadamy
 
 #### Work Experience
-##### Senior Information Technnology Manager & Araliya Hotels Nuwaraeliya - Present
-##### Information Technology Executive & Araliya Green City Hotel - November 2022 To November 2023
-##### IT Administrator & Araliya Green Hills Hotel April 2022 To November 2022
-##### System Administrator & D-Tech Computers Bibile
-##### Netwokr Administrator & BDC Bank Bibile
+##### *Senior Information Technnology Manager
+-Araliya Hotels Nuwaraeliya - Present
+##### *Information Technology Executive
+-Araliya Green City Hotel - November 2022 To November 2023
+##### *IT Administrator
+-Araliya Green Hills Hotel April 2022 To November 2022
+##### *System Administrator
+-D-Tech Computers Bibile
+##### *Netwokr Administrator
+-BDC Bank Bibile
 
 
 #### Projects
@@ -28,10 +33,17 @@ operational relationships between departments
 
 #### Key Skills
 
--Hospitality IT Management: Specialize in implementing and managing technology solutions tailored to the hospitality industry, including property management systems (PMS), point-of-sale (POS) systems, and guest experience platforms.
--System Administration: Extensive experience in managing server environments, network infrastructure, and security protocols. Proficient in troubleshooting and maintaining Windows, Linux, and cloud-based systems.
--Project Management: Skilled in leading IT projects from inception to completion, including system upgrades, integrations, and migrations. Proven ability to manage budgets, timelines, and stakeholder expectations.
--Technical Support: Strong track record of delivering high-quality technical support and training to staff, ensuring seamless day-to-day operations and minimizing downtime.
--Cybersecurity: Expertise in implementing and maintaining security measures to protect sensitive data and ensure compliance with industry standards and regulations.
--Vendor Management: Experience in negotiating with and managing relationships with technology vendors and service providers to optimize product performance and cost-efficiency.
--Innovation: Focused on leveraging emerging technologies to enhance guest experiences and operational efficiency, including smart room technology and data analytics.
+##### Hospitality IT Management
+-Specialize in implementing and managing technology solutions tailored to the hospitality industry, including property management systems (PMS), point-of-sale (POS) systems, and guest experience platforms.
+##### System Administration
+-Extensive experience in managing server environments, network infrastructure, and security protocols. Proficient in troubleshooting and maintaining Windows, Linux, and cloud-based systems.
+##### Project Management
+-Skilled in leading IT projects from inception to completion, including system upgrades, integrations, and migrations. Proven ability to manage budgets, timelines, and stakeholder expectations.
+##### Technical Support
+-Strong track record of delivering high-quality technical support and training to staff, ensuring seamless day-to-day operations and minimizing downtime.
+##### Cybersecurity
+-Expertise in implementing and maintaining security measures to protect sensitive data and ensure compliance with industry standards and regulations.
+##### Vendor Management
+-Experience in negotiating with and managing relationships with technology vendors and service providers to optimize product performance and cost-efficiency.
+##### Innovation
+-Focused on leveraging emerging technologies to enhance guest experiences and operational efficiency, including smart room technology and data analytics.
