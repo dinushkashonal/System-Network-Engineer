@@ -10,21 +10,21 @@ planning. I excel in successful team building and creating high-impact
 operational relationships between departments
 
 ### Education
--Bachalors in Network & Cybersecurity | Lincoln University of Sri Lanka
--Diploma in Software Engineering | Esoft Metro Campus
--Cisco Certified Network Associate | Winsys Network Acadamy
+##### Bachalors in Network & Cybersecurity | Lincoln University of Sri Lanka
+##### Diploma in Software Engineering | Esoft Metro Campus
+##### Cisco Certified Network Associate | Winsys Network Acadamy
 
 #### Work Experience
 ##### Senior Information Technnology Manager
--Araliya Hotels Nuwaraeliya - Present
+Araliya Hotels Nuwaraeliya - Present
 ##### Information Technology Executive
--Araliya Green City Hotel - November 2022 To November 2023
+Araliya Green City Hotel - November 2022 To November 2023
 ##### IT Administrator
--Araliya Green Hills Hotel April 2022 To November 2022
+Araliya Green Hills Hotel April 2022 To November 2022
 ##### System Administrator
--D-Tech Computers Bibile
+D-Tech Computers Bibile
 ##### Netwokr Administrator
--BDC Bank Bibile
+BDC Bank Bibile
 
 
 #### Projects
