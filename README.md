@@ -15,11 +15,11 @@ operational relationships between departments
 -Cisco Certified Network Associate | Winsys Network Acadamy
 
 #### Work Experience
--Senior Information Technnology Manager & Araliya Hotels Nuwaraeliya - Present
--Information Technology Executive & Araliya Green City Hotel - November 2022 To November 2023
--IT Administrator & Araliya Green Hills Hotel April 2022 To November 2022
--System Administrator & D-Tech Computers Bibile
--Netwokr Administrator & BDC Bank Bibile
+##### Senior Information Technnology Manager & Araliya Hotels Nuwaraeliya - Present
+##### Information Technology Executive & Araliya Green City Hotel - November 2022 To November 2023
+##### IT Administrator & Araliya Green Hills Hotel April 2022 To November 2022
+##### System Administrator & D-Tech Computers Bibile
+##### Netwokr Administrator & BDC Bank Bibile
 
 
 #### Projects
