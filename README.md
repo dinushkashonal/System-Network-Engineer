@@ -1,7 +1,12 @@
 # NOC Engineer - L3
 -Dinushka Shonal Geekiyanage Protfolio
 # Profile
-Accomplished and results-driven Seinor IT Manager with over 3 years in 
+Dedicated and detail-oriented NOC Engineer with over three years of 
+progressive experience in the hospitality sector, specializing in network 
+support and infrastructure management. Proven expertise in monitoring, 
+troubleshooting, and resolving complex network issues to ensure seamless 
+connectivity and optimal performance within diverse hospitality 
+environments.Accomplished and results-driven Seinor IT Manager with over 3 years in 
 information technology operations and infrastructure, including 7 years 
 managing technical teams and system administrating. My expertise spans hospitality operations, 
 application development, infrastructure operations, IT security, sales and 
