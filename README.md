@@ -1,18 +1,8 @@
 # NOC Engineer - L3
 -Dinushka Shonal Geekiyanage Protfolio
 # Profile
-Dedicated and detail-oriented NOC Engineer with over three years of 
-progressive experience in the hospitality sector, specializing in network 
-support and infrastructure management. Proven expertise in monitoring, 
-troubleshooting, and resolving complex network issues to ensure seamless 
-connectivity and optimal performance within diverse hospitality 
-environments.Accomplished and results-driven Seinor IT Manager with over 3 years in 
-information technology operations and infrastructure, including 7 years 
-managing technical teams and system administrating. My expertise spans hospitality operations, 
-application development, infrastructure operations, IT security, sales and 
-marketing business operations, vendor management, and strategic 
-planning. I excel in successful team building and creating high-impact 
-operational relationships between departments
+I am a dedicated and detail-oriented NOC Engineer with over three years of progressive experience in the hospitality sector, specializing in network support and infrastructure management. I possess proven expertise in monitoring, troubleshooting, and resolving complex network issues to ensure seamless connectivity and optimal performance within diverse hospitality environments.
+In addition, I am an accomplished and results-driven Senior IT Manager with over three years of experience in information technology operations and infrastructure, coupled with seven years of managing technical teams and system administration. My areas of expertise encompass hospitality operations, application development, infrastructure operations, IT security, sales and marketing business operations, vendor management, and strategic planning. I excel in effective team building and in fostering high-impact operational relationships across departments.
 
 ## Education
 ##### Bachalors in Network & Cybersecurity | Lincoln University of Sri Lanka
