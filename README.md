@@ -10,13 +10,13 @@ In addition, I am an accomplished and results-driven Senior IT Manager with over
 ##### Cisco Certified Network Associate | Winsys Network Acadamy
 
 ## Work Experience
-##### Senior Information Technnology Manager
+##### Senior Information Technology Manager
 Araliya Hotels Nuwaraeliya - Present
 ##### Information Technology Executive
 Araliya Green City Hotel - November 2022 To November 2023
 ##### IT Administrator
 Araliya Green Hills Hotel April 2022 To November 2022
-##### System Administrator
+##### System Administrator - Entrepreneur
 D-Tech Computers Bibile
 ##### Netwokr Administrator
 BDC Bank Bibile
@@ -25,6 +25,7 @@ BDC Bank Bibile
 ## Projects
 -Workoder Management System Cloud Backup Server System for Hotels 
 -Cloud Backup System using Nextcloud with opensource servers
+-Assets Management system for Hospitality Sector
 
 #### Key Skills
 
@@ -42,6 +43,10 @@ BDC Bank Bibile
 -Experience in negotiating with and managing relationships with technology vendors and service providers to optimize product performance and cost-efficiency.
 ##### Innovation:
 -Focused on leveraging emerging technologies to enhance guest experiences and operational efficiency, including smart room technology and data analytics.
+##### Network Protocols:
+-In-depth understanding of TCP/IP, DNS, DHCP, BGP, OSPF, and other networking protocols.
+##### Routing and Switching:
+-Proficiency in configuring and troubleshooting routers, switches, firewalls, and load balancers.
 
 #### Hard Skills
 •	Network Virtualization
