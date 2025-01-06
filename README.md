@@ -1,21 +1,27 @@
 # NOC Engineer - L3
--Dinushka Shonal Geekiyanage Protfolio
+##### Dinushka Shonal Geekiyanage Protfolio
 # Profile
 I am a dedicated and detail-oriented NOC Engineer with over three years of progressive experience in the hospitality sector, specializing in network support and infrastructure management. I possess proven expertise in monitoring, troubleshooting, and resolving complex network issues to ensure seamless connectivity and optimal performance within diverse hospitality environments.
 In addition, I am an accomplished and results-driven Senior IT Manager with over three years of experience in information technology operations and infrastructure, coupled with seven years of managing technical teams and system administration. My areas of expertise encompass hospitality operations, application development, infrastructure operations, IT security, sales and marketing business operations, vendor management, and strategic planning. I excel in effective team building and in fostering high-impact operational relationships across departments.
 
-## Education
+## Acadamic
 ##### Bachalors in Network & Cybersecurity | Lincoln University of Sri Lanka
 ##### Diploma in Software Engineering | Esoft Metro Campus
 ##### Cisco Certified Network Associate | Winsys Network Acadamy
 
+## Professional
+##### Microsoft Azure Administrator 
+##### Certified Information Security Manager (CISM)
+##### AWS Network Monitoring and Troubleshoot
+##### Microsoft Power Business Intilligence (BI) Tool
+
 ## Work Experience
-##### Senior Information Technology Manager
-Araliya Hotels Nuwaraeliya - Present
-##### Information Technology Executive
-Araliya Green City Hotel - November 2022 To November 2023
-##### IT Administrator
-Araliya Green Hills Hotel April 2022 To November 2022
+##### Senior Information Technology Manager - Present
+Araliya Hotels Nuwaraeliya
+##### Information Technology Executive - November 2022 To November 2023
+Araliya Green City Hotel 
+##### IT Administrator - April 2022 To November 2022
+Araliya Green Hills Hotel 
 ##### System Administrator - Entrepreneur
 D-Tech Computers Bibile
 ##### Netwokr Administrator
@@ -31,7 +37,7 @@ BDC Bank Bibile
 ## Key Skills
 
 ##### Hospitality IT Management:
-# Specialize in implementing and managing technology solutions tailored to the hospitality industry, including property management systems (PMS), point-of-sale (POS) systems, and guest experience platforms.
+-Specialize in implementing and managing technology solutions tailored to the hospitality industry, including property management systems (PMS), point-of-sale (POS) systems, and guest experience platforms.
 ##### System Administration:
 -Extensive experience in managing server environments, network infrastructure, and security protocols. Proficient in troubleshooting and maintaining Windows, Linux, and cloud-based systems.
 ##### Project Management:
