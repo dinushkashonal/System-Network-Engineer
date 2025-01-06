@@ -55,7 +55,7 @@ BDC Bank Bibile
 ##### Routing and Switching:
 -Proficiency in configuring and troubleshooting routers, switches, firewalls, and load balancers.
 
-#### Hard Skills
+#### Technical Skills
 •	Network Virtualization
 •	Subnetting
 •	Network Protocols
@@ -65,4 +65,19 @@ BDC Bank Bibile
 •	LVM Configuration – Nextcloud
 •	DHCP Pool Configuring
 •	Firewall Configuration and Optimization
+#####  Network Design and Implementation
+#####  Network Protocols
+#####  Routing and Switching
+#####  Network Security
+#####  Troubleshooting and Monitoring
+#####  Virtualization and Cloud Networking
+#####  Wireless Networkin
 
+#### Industrial Implementation
+
+#####   Implemented Cloud Backup servers using Nextcloud and opensourcesoftware.
+#####   WorkOrder ManagementSystem using PHP and CVS hosting using property local host
+#####   VPN servicesforremote PMs users
+#####   Guest Wi-Fi loadbalancing with two internet service providers using MikroTik Router
+#####   SQL schedule backupsystem using crontab and SSH services.
+#####   UAT server configuration for each property using VPN services.
