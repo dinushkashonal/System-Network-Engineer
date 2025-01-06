@@ -23,9 +23,10 @@ BDC Bank Bibile
 
 
 ## Projects
--Workoder Management System Cloud Backup Server System for Hotels 
--Cloud Backup System using Nextcloud with opensource servers
--Assets Management system for Hospitality Sector
+##### Workoder Management System Cloud Backup Server System for Hotels 
+##### Cloud Backup System using Nextcloud with opensource servers
+##### Assets Management system for Hospitality Sector
+##### HR File Management system with ID Card Printing Software call (HRFMS)
 
 #### Key Skills
 
