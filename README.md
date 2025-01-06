@@ -55,7 +55,7 @@ BDC Bank Bibile
 ##### Routing and Switching:
 -Proficiency in configuring and troubleshooting routers, switches, firewalls, and load balancers.
 
-#### Technical Skills
+## Technical Skills
 •	Network Virtualization
 •	Subnetting
 •	Network Protocols
@@ -73,7 +73,7 @@ BDC Bank Bibile
 #####  Virtualization and Cloud Networking
 #####  Wireless Networkin
 
-#### Industrial Implementation
+## Industrial Implementation
 
 #####   Implemented Cloud Backup servers using Nextcloud and opensourcesoftware.
 #####   WorkOrder ManagementSystem using PHP and CVS hosting using property local host
