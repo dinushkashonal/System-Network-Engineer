@@ -23,15 +23,14 @@ BDC Bank Bibile
 
 
 ## Projects
-##### Workoder Management System Cloud Backup Server System for Hotels 
-##### Cloud Backup System using Nextcloud with opensource servers
-##### Assets Management system for Hospitality Sector
-##### HR File Management system with ID Card Printing Software call (HRFMS)
+##### i.Workoder Management System Cloud Backup Server System for Hotels 
+##### ii.Cloud Backup System using Nextcloud with opensource servers
+##### iii.Assets Management system for Hospitality Sector
+##### iv.HR File Management system with ID Card Printing Software call (HRFMS)
 
-#### Key Skills
+## Key Skills
 
-##### Hospitality IT Management:
--Specialize in implementing and managing technology solutions tailored to the hospitality industry, including property management systems (PMS), point-of-sale (POS) systems, and guest experience platforms.
+##### Hospitality IT Management:Specialize in implementing and managing technology solutions tailored to the hospitality industry, including property management systems (PMS), point-of-sale (POS) systems, and guest experience platforms.
 ##### System Administration:
 -Extensive experience in managing server environments, network infrastructure, and security protocols. Proficient in troubleshooting and maintaining Windows, Linux, and cloud-based systems.
 ##### Project Management:
