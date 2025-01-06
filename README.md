@@ -30,7 +30,8 @@ BDC Bank Bibile
 
 ## Key Skills
 
-##### Hospitality IT Management:Specialize in implementing and managing technology solutions tailored to the hospitality industry, including property management systems (PMS), point-of-sale (POS) systems, and guest experience platforms.
+##### Hospitality IT Management:
+# Specialize in implementing and managing technology solutions tailored to the hospitality industry, including property management systems (PMS), point-of-sale (POS) systems, and guest experience platforms.
 ##### System Administration:
 -Extensive experience in managing server environments, network infrastructure, and security protocols. Proficient in troubleshooting and maintaining Windows, Linux, and cloud-based systems.
 ##### Project Management:
