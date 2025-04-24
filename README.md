@@ -1,5 +1,5 @@
-# NOC Engineer - L3
-##### Dinushka Shonal Geekiyanage Protfolio
+# IT Manager Syst,Eng| Hospitality Information Technology 
+##### Dinushka Shonal Geekiyanage Portfolio
 # Profile
 I am a dedicated and detail-oriented NOC Engineer with over three years of progressive experience in the hospitality sector, specializing in network support and infrastructure management. I possess proven expertise in monitoring, troubleshooting, and resolving complex network issues to ensure seamless connectivity and optimal performance within diverse hospitality environments.
 In addition, I am an accomplished and results-driven Senior IT Manager with over three years of experience in information technology operations and infrastructure, coupled with seven years of managing technical teams and system administration. My areas of expertise encompass hospitality operations, application development, infrastructure operations, IT security, sales and marketing business operations, vendor management, and strategic planning. I excel in effective team building and in fostering high-impact operational relationships across departments.
@@ -11,12 +11,15 @@ In addition, I am an accomplished and results-driven Senior IT Manager with over
 
 ## Professional
 ##### Microsoft Azure Administrator 
+##### Red Hat Certified System Administrator (RHCSA) 
 ##### Certified Information Security Manager (CISM)
-##### AWS Network Monitoring and Troubleshoot
-##### Microsoft Power Business Intilligence (BI) Tool
+##### AWS Network Monitoring and Troubleshooting
+##### Microsoft Power Business Intelligence (BI) Tool
 
 ## Work Experience
-##### Senior Information Technology Manager - Present
+##### Senior Information Technology Manager - Present 
+Aman | Amanwella Hotel 
+##### Information Technology Manager November 2023 To February 2025
 Araliya Hotels Nuwaraeliya
 ##### Information Technology Executive - November 2022 To November 2023
 Araliya Green City Hotel 
@@ -29,10 +32,10 @@ BDC Bank Bibile
 
 
 ## Projects
-##### i.Workoder Management System Cloud Backup Server System for Hotels 
-##### ii.Cloud Backup System using Nextcloud with opensource servers
-##### iii.Assets Management system for Hospitality Sector
-##### iv.HR File Management system with ID Card Printing Software call (HRFMS)
+##### i. Workoder Management System Cloud Backup Server System for Hotels 
+##### ii. Cloud Backup System using Nextcloud with open-source servers
+##### iii.Asset Management System for the Hospitality Sector
+##### iv.HR File Management system with ID Card Printing Software called (HRFMS)
 
 ## Key Skills
 
@@ -57,7 +60,6 @@ BDC Bank Bibile
 
 ## Technical Skills
 •	Network Virtualization
-•	Subnetting
 •	Network Protocols
 •	Troubleshooting
 •	Load Balancing
@@ -65,19 +67,23 @@ BDC Bank Bibile
 •	LVM Configuration – Nextcloud
 •	DHCP Pool Configuring
 •	Firewall Configuration and Optimization
+•	CrowdStrike Security Protocols Administration
 #####  Network Design and Implementation
 #####  Network Protocols
 #####  Routing and Switching
 #####  Network Security
 #####  Troubleshooting and Monitoring
 #####  Virtualization and Cloud Networking
-#####  Wireless Networkin
+#####  Wireless Networking
+#####  Traffic Monitoring
+#####  Windows Server Configuration
+#####  Linux, CentOS ,Ubuntu Administration
 
 ## Industrial Implementation
 
-#####   Implemented Cloud Backup servers using Nextcloud and opensourcesoftware.
-#####   WorkOrder ManagementSystem using PHP and CVS hosting using property local host
-#####   VPN servicesforremote PMs users
+#####   I have implemented Cloud Backup servers using Nextcloud and open-source software.
+#####   WorkOrder Management System using PHP and CVS hosting using a local host
+#####   VPN services for remote PM users
 #####   Guest Wi-Fi loadbalancing with two internet service providers using MikroTik Router
 #####   SQL schedule backupsystem using crontab and SSH services.
 #####   UAT server configuration for each property using VPN services.
