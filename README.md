@@ -17,7 +17,7 @@ In addition, I am an accomplished and results-driven Senior IT Manager with over
 ##### Microsoft Power Business Intelligence (BI) Tool
 
 ## Work Experience
-##### Senior Information Technology Manager - Present 
+##### Information Technology Manager - Present 
 Aman | Amanwella Hotel 
 ##### Information Technology Manager November 2023 To February 2025
 Araliya Hotels Nuwaraeliya
@@ -27,15 +27,18 @@ Araliya Green City Hotel
 Araliya Green Hills Hotel 
 ##### System Administrator - Entrepreneur
 D-Tech Computers Bibile
-##### Netwokr Administrator
+##### Network Administrator
 BDC Bank Bibile
 
 
 ## Projects
-##### i. Workoder Management System Cloud Backup Server System for Hotels 
-##### ii. Cloud Backup System using Nextcloud with open-source servers
-##### iii.Asset Management System for the Hospitality Sector
-##### iv.HR File Management system with ID Card Printing Software called (HRFMS)
+##### 1. Hospitality Cloud Backup & Disaster Recovery
+Built a Nextcloud-based private cloud for 200+ TB of PMS/POS data with AES-256 encryption.
+Reduced RTO to <2 hours using incremental backups (rsync + cron)
+##### 2. Cloud Backup System using Nextcloud with open-source servers
+##### 3. Multi-Property Network Architecture
+##### 4. Asset Management System for the Hospitality Sector
+##### 5. HR File Management system with ID Card Printing Software called (HRFMS)
 
 ## Key Skills
 
@@ -59,15 +62,19 @@ BDC Bank Bibile
 -Proficiency in configuring and troubleshooting routers, switches, firewalls, and load balancers.
 
 ## Technical Skills
-•	Network Virtualization
-•	Network Protocols
-•	Troubleshooting
-•	Load Balancing
-•	VLAN Configuration
-•	LVM Configuration – Nextcloud
-•	DHCP Pool Configuring
-•	Firewall Configuration and Optimization
-•	CrowdStrike Security Protocols Administration
+#### Networking
+##### Protocols: TCP/IP, BGP, OSPF, EIGRP, VLAN, VXLAN, QoS, VoIP (SIP)
+##### Hardware: Cisco, MikroTik, FortiGate, HP Aruba, Ubiquiti
+##### Wireless: Enterprise Wi-Fi (802.11ac), Captive Portals, Heat Mapping
+#### Security
+##### Firewalls (FortiGate, pfSense), IDS/IPS (Snort), NAC, SIEM (Wazuh)
+##### Compliance: PCI-DSS, GDPR, ISO 27001
+#### Cloud & Virtualization
+##### AWS/Azure Networking: VPC, Direct Connect, ExpressRoute
+##### Virtualization: VMware ESXi, Proxmox, Docker
+#### Automation & Scripting
+##### Bash, Python (Ansible), and PowerShell for network automation.
+
 #####  Network Design and Implementation
 #####  Network Protocols
 #####  Routing and Switching
@@ -78,6 +85,7 @@ BDC Bank Bibile
 #####  Traffic Monitoring
 #####  Windows Server Configuration
 #####  Linux, CentOS ,Ubuntu Administration
+
 
 ## Industrial Implementation
 
