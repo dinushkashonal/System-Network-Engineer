@@ -84,7 +84,7 @@ Reduced RTO to <2 hours using incremental backups (rsync + cron)
 #####  Wireless Networking
 #####  Traffic Monitoring
 #####  Windows Server Configuration
-#####  Linux, CentOS ,Ubuntu Administration
+#####  Linux, CentOS, Ubuntu Administration
 
 
 ## Industrial Implementation
