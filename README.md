@@ -1,13 +1,14 @@
 # IT Manager Syst,Eng| Hospitality Information Technology 
 ##### Dinushka Shonal Geekiyanage Portfolio
 # Profile
-I am a dedicated and detail-oriented NOC Engineer with over three years of progressive experience in the hospitality sector, specializing in network support and infrastructure management. I possess proven expertise in monitoring, troubleshooting, and resolving complex network issues to ensure seamless connectivity and optimal performance within diverse hospitality environments.
-In addition, I am an accomplished and results-driven Senior IT Manager with over three years of experience in information technology operations and infrastructure, coupled with seven years of managing technical teams and system administration. My areas of expertise encompass hospitality operations, application development, infrastructure operations, IT security, sales and marketing business operations, vendor management, and strategic planning. I excel in effective team building and in fostering high-impact operational relationships across departments.
+Accomplished Hospitality IT Manager with over 5 + years of experience aligning technology strategy with operational excellence in the hospitality sector. Expertise in designing and maintaining secure, high-availability network infrastructures, cloud platforms (Azure, AWS), and enterprise systems. Proven success in deploying scalable IT solutions that enhance guest experiences, optimize revenue systems, and ensure operational resilience. Proficient in hospitality-specific platforms including PMS, CRM, ERP, and POS, with strong skills in SQL database management, data integrity, and disaster recovery planning. Adept at leading cross-functional initiatives that strengthen cybersecurity, reduce downtime, and support seamless business continuity in fast-paced hospitality environments.
 
 ## Acadamic
-##### Bachalors in Network & Cybersecurity | Lincoln University of Sri Lanka
+##### BSc Hons in Network & Cybersecurity | Lincoln University Collage of Sri Lanka
 ##### Diploma in Software Engineering | Esoft Metro Campus
-##### Cisco Certified Network Associate | Winsys Network Acadamy
+##### Cisco Certified Network Associate
+##### Cisco Certified Network Professional
+##### Certified Ethical Hacker (CEH) Specialization
 
 ## Professional
 ##### Microsoft Azure Administrator 
@@ -18,8 +19,8 @@ In addition, I am an accomplished and results-driven Senior IT Manager with over
 
 ## Work Experience
 ##### Information Technology Manager - Present 
-Aman | Amanwella Hotel 
-##### Information Technology Manager November 2023 To February 2025
+Aman Sarl Group | Amanwella Hotel 
+##### Information Technology Manager, November 2023 To February 2025
 Araliya Hotels Nuwaraeliya
 ##### Information Technology Executive - November 2022 To November 2023
 Araliya Green City Hotel 
@@ -41,7 +42,8 @@ Reduced RTO to <2 hours using incremental backups (rsync + cron)
 ##### 5. HR File Management system with ID Card Printing Software called (HRFMS)
 
 ## Key Skills
-
+##### Hospitality Systems :
+(Cloud- ERP, PMS, Symphony, POS, HR Systems, Payroll, Retail POS)
 ##### Hospitality IT Management:
 -Specialize in implementing and managing technology solutions tailored to the hospitality industry, including property management systems (PMS), point-of-sale (POS) systems, and guest experience platforms.
 ##### System Administration:
