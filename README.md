@@ -1,5 +1,6 @@
 # IT Manager Syst, Eng| Hospitality Information Technology 
 ##### Dinushka Shonal Geekiyanage Portfolio
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinushka-shonal-geekiyanage)
 # Profile
 Accomplished Hospitality IT Manager with over 5 + years of experience aligning technology strategy with operational excellence in the hospitality sector. Expertise in designing and maintaining secure, high-availability network infrastructures, cloud platforms (Azure, AWS), and enterprise systems. Proven success in deploying scalable IT solutions that enhance guest experiences, optimize revenue systems, and ensure operational resilience. Proficient in hospitality-specific platforms including PMS, CRM, ERP, and POS, with strong skills in SQL database management, data integrity, and disaster recovery planning. Adept at leading cross-functional initiatives that strengthen cybersecurity, reduce downtime, and support seamless business continuity in fast-paced hospitality environments.
 
