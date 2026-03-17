@@ -1,11 +1,11 @@
-# IT Manager Syst,Eng| Hospitality Information Technology 
+# IT Manager Syst, Eng| Hospitality Information Technology 
 ##### Dinushka Shonal Geekiyanage Portfolio
 # Profile
 Accomplished Hospitality IT Manager with over 5 + years of experience aligning technology strategy with operational excellence in the hospitality sector. Expertise in designing and maintaining secure, high-availability network infrastructures, cloud platforms (Azure, AWS), and enterprise systems. Proven success in deploying scalable IT solutions that enhance guest experiences, optimize revenue systems, and ensure operational resilience. Proficient in hospitality-specific platforms including PMS, CRM, ERP, and POS, with strong skills in SQL database management, data integrity, and disaster recovery planning. Adept at leading cross-functional initiatives that strengthen cybersecurity, reduce downtime, and support seamless business continuity in fast-paced hospitality environments.
 
 ## Acadamic
-##### BSc Hons in Network & Cybersecurity | Lincoln University Collage of Sri Lanka
-##### Diploma in Software Engineering | Esoft Metro Campus
+##### BSc Hons in Network & Cybersecurity
+##### Diploma in Software Engineering 
 ##### Cisco Certified Network Associate
 ##### Cisco Certified Network Professional
 ##### Certified Ethical Hacker (CEH) Specialization
