@@ -7,7 +7,7 @@ Accomplished Hospitality IT Manager with over 5 + years of experience aligning t
 
 ## Acadamic
 ##### BSc Hons in Network & Cybersecurity
-##### Diploma in Software Engineering 
+##### DISE - Diploma in Software Engineering 
 ##### Cisco Certified Network Associate
 ##### Cisco Certified Network Professional
 ##### Certified Ethical Hacker (CEH) Specialization
@@ -22,11 +22,11 @@ Accomplished Hospitality IT Manager with over 5 + years of experience aligning t
 ## Work Experience
 ##### Information Technology Manager - Present 
 Aman Sarl Group | Amanwella Hotel 
-##### Information Technology Manager, November 2023 To February 2025
+##### Information Technology Manager
 Araliya Hotels Nuwaraeliya
-##### Information Technology Executive - November 2022 To November 2023
+##### Information Technology Executive 
 Araliya Green City Hotel 
-##### IT Administrator - April 2022 To November 2022
+##### IT Administrator 
 Araliya Green Hills Hotel 
 ##### System Administrator - Entrepreneur
 D-Tech Computers Bibile
